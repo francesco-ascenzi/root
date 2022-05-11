@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francesco-ascenzi
 - 👀 I’m interested in C, HTML, CSS, JavaScript, PHP
-- 🌱 I’m currently understanding C and JavaScript better
+- 🌱 I’m currently studying C and JavaScript better
 - 💞️ I’m looking to collaborate on Google
 - 📫 Just send me an email on my personal website (entirley developed by me https://www.francescoascenzi.com
 
